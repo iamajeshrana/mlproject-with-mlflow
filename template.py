@@ -23,7 +23,7 @@ list_of_files = [
     "config/config.yaml",
     # "dvc.yaml", # this file not required because we can use ML FLOWS
     "params.yaml",
-    "schema.yml", # this code have new additions
+    "schema.yaml", # this code have new additions
     "main.py", # this code have new additions, but this file you have created manually project
     "app.py", # this code have new additions, but this file you have created manually project
     "Dockerfile", # this code have new additions, but this file you have created manually project
