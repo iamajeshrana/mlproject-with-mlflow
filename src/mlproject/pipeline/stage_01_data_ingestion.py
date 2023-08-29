@@ -1,6 +1,7 @@
 from mlproject.config.configuration import ConfigurationManager
 from mlproject.components.data_ingestion import DataIngestion
 from mlproject import logger
+from pathlib import Path
 
 STAGE_NAME = "Data Ingestion stage"
 
