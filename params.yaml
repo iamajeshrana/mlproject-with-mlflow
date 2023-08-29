@@ -1,2 +1,6 @@
 # Note below code have dummy we can used if you ahve run the code the in research foler jupyter notebook file you can get error. so use this
 key: val
+
+ElasticNet:
+  alpha: 0.5
+  l1_ratio: 0.7
