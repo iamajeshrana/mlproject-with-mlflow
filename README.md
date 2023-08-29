@@ -65,8 +65,8 @@ open up you local host and port
 [dagshub](https://dagshub.com/)
 
 MLFLOW_TRACKING_URI=https://dagshub.com/iamajeshrana/mlproject-with-mlflow.mlflow  \
-MLFLOW_TRACKING_USERNAME=iamajeshrana \
-MLFLOW_TRACKING_PASSWORD=56548fbae44c7b0fe99e2539127ec923a5075a62 \
+MLFLOW_TRACKING_USERNAME=iamajeshaaranaaa \
+MLFLOW_TRACKING_PASSWORD=56548fbae44c7b0fe99e2539127ec9xxaascsa23a50762 \
 python script.py
 
 Run this to export as env variables:
@@ -75,9 +75,9 @@ Run this to export as env variables:
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/iamajeshrana/mlproject-with-mlflow.mlflow
 
-export MLFLOW_TRACKING_USERNAME=iamajeshrana
+export MLFLOW_TRACKING_USERNAME=iamajeshaaranaaa
 
-export MLFLOW_TRACKING_PASSWORD=56548fbae44c7b0fe99e2539127ec923a5075a62
+export MLFLOW_TRACKING_PASSWORD=56548fbae44c7b0fe99e2539127ec9xxaascsa23a50762
 
 ```
 
@@ -116,7 +116,7 @@ export MLFLOW_TRACKING_PASSWORD=56548fbae44c7b0fe99e2539127ec923a5075a62
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/mlproj
+    - Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/mlproject
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
