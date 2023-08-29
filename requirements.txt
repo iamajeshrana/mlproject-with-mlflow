@@ -1,0 +1,18 @@
+# tensorflow==2.10 if you have use the deep learning then use this
+sklearn # This have addition, why use because of machine learning project
+# dvc why not use because we can use the mlflow 
+mlflow==2.2.2
+notebook
+numpy
+pandas
+matplotlib
+python-box==6.0.2 # For used the try and exception handling
+pyYAML # This library help the yaml file reading
+tqdm # for used to check the progress of the process.
+ensure==1.0.2 # To ensure the code is correct or not.
+joblib
+scipy
+types-pyYAML
+Flask
+Flask-Cors
+-e . # it consider src/mlproject as a local package , because you run you can create the setup.py why create because as create pypi.
