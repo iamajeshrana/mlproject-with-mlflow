@@ -2,5 +2,5 @@
 key: val
 
 ElasticNet:
-  alpha: 0.5
-  l1_ratio: 0.7
+  alpha: 0.8
+  l1_ratio: 0.2

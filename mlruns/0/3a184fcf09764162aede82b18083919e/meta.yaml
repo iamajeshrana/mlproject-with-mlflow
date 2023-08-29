@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Final%20Project/Data%20Science/Modular%20Programming/ML/Regression/mlproject-with-mlflow/mlruns/0/3a184fcf09764162aede82b18083919e/artifacts
+end_time: 1693331576482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a184fcf09764162aede82b18083919e
+run_name: angry-newt-404
+run_uuid: 3a184fcf09764162aede82b18083919e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693331574336
+status: 3
+tags: []
+user_id: Hi

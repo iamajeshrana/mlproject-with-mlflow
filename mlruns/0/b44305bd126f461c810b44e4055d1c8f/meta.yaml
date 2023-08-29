@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Final%20Project/Data%20Science/Modular%20Programming/ML/Regression/mlproject-with-mlflow/mlruns/0/b44305bd126f461c810b44e4055d1c8f/artifacts
+end_time: 1693331327201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b44305bd126f461c810b44e4055d1c8f
+run_name: judicious-ape-601
+run_uuid: b44305bd126f461c810b44e4055d1c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693331324702
+status: 3
+tags: []
+user_id: Hi
